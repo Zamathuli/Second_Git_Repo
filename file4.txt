@@ -1,1 +1,2 @@
 This is a file we are going to use to demonstrate branches
+added a new line for tests purposes
